@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Unnamed">
+    <CLASSES>
+      <root url="jar://C:/Java/mysql-connector-java-5.1.18/mysql-connector-java-5.1.18-bin.jar!/" />
+      <root url="jar://C:/Java/mybatis-3.1.1/mybatis-3.1.1.jar!/" />
+      <root url="jar://C:/Java/mybatis-3.1.1/lib/asm-3.3.1.jar!/" />
+      <root url="jar://C:/Java/mybatis-3.1.1/lib/cglib-2.2.2.jar!/" />
+      <root url="jar://C:/Java/mybatis-3.1.1/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://C:/Java/mybatis-3.1.1/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://C:/Java/mybatis-3.1.1/lib/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://C:/Java/mybatis-3.1.1/lib/slf4j-log4j12-1.6.2.jar!/" />
+      <root url="jar://C:/Java/ibatis-2.3.4.726/lib/ibatis-2.3.4.726.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
